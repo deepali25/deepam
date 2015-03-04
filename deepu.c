@@ -4,7 +4,7 @@
 void main()
 {
 printf("my name is deepak");
-printf("i am simply coding");
+printf("sim simply coding");
 printf("i am 21 years old");
 
 }
